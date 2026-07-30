@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174 176" width="174" height="176">
+	<style>
+		.s0 { fill: #f1efe8 } 
+		.s1 { fill: none;stroke: #b4b2a9 } 
+		.s2 { fill: #712b13 } 
+		.s3 { opacity: .6;fill: none;stroke: #993c1d;stroke-width: 3 } 
+		.s4 { fill: #3b6d11 } 
+		.s5 { fill: #fac775 } 
+		.s6 { fill: none;stroke: #ef9f27;stroke-width: 3 } 
+		.s7 { fill: #f0997b } 
+		.s8 { fill: #d4537e } 
+		.s9 { fill: none;stroke: #639922;stroke-width: 2 } 
+		.s10 { fill: #f09595 } 
+		.s11 { fill: #000000;stroke: #ef9f27 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m-260 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path fill-rule="evenodd" class="s1" d="m-260 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path class="s2" d="m-295 87q15-20 45-10 25 7 15 30-15 15-45 5-15-8-15-25z"/>
+	<path class="s3" d="m-290 122q30 15 70-2"/>
+	<path fill-rule="evenodd" class="s4" d="m-220 66c-2.21 0-4-1.79-4-4 0-2.21 1.79-4 4-4 2.21 0 4 1.79 4 4 0 2.21-1.79 4-4 4z"/>
+	<path fill-rule="evenodd" class="s4" d="m-230 56c-2.21 0-4-1.79-4-4 0-2.21 1.79-4 4-4 2.21 0 4 1.79 4 4 0 2.21-1.79 4-4 4z"/>
+	<path fill-rule="evenodd" class="s0" d="m-85 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path fill-rule="evenodd" class="s1" d="m-85 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path class="s5" d="m-125 87q20-20 40 0 20-20 40 0-20 20-40 5-20 15-40-5z"/>
+	<path class="s6" d="m-115 102q30 10 60 0"/>
+	<path fill-rule="evenodd" class="s4" d="m-85 76c-2.21 0-4-1.79-4-4 0-2.21 1.79-4 4-4 2.21 0 4 1.79 4 4 0 2.21-1.79 4-4 4z"/>
+	<path fill-rule="evenodd" class="s0" d="m90 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path fill-rule="evenodd" class="s1" d="m90 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path class="s7" d="m60 122l30-70 30 70z"/>
+	<path fill-rule="evenodd" class="s8" d="m72 115c-2.76 0-5-2.24-5-5 0-2.76 2.24-5 5-5 2.76 0 5 2.24 5 5 0 2.76-2.24 5-5 5z"/>
+	<path fill-rule="evenodd" class="s8" d="m86 119c-2.76 0-5-2.24-5-5 0-2.76 2.24-5 5-5 2.76 0 5 2.24 5 5 0 2.76-2.24 5-5 5z"/>
+	<path class="s9" d="m98 57q8-5 4 7"/>
+	<path fill-rule="evenodd" class="s0" d="m260 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path fill-rule="evenodd" class="s1" d="m260 172c-44.24 0-80-35.76-80-80 0-44.24 35.76-80 80-80 44.24 0 80 35.76 80 80 0 44.24-35.76 80-80 80z"/>
+	<path class="s10" d="m225 92q15-15 35-5 20 5 15 20-20 10-40 0-10-5-10-15z"/>
+	<path fill-rule="evenodd" class="s5" d="m295 108c-8.85 0-16-7.15-16-16 0-8.85 7.15-16 16-16 8.85 0 16 7.15 16 16 0 8.85-7.15 16-16 16z"/>
+	<path fill-rule="evenodd" class="s11" d="m287 84l16 16"/>
+	<path fill-rule="evenodd" class="s11" d="m287 92h16"/>
+	<path fill-rule="evenodd" class="s11" d="m287 100l16-16"/>
+</svg>
