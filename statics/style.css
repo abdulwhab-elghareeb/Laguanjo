@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -31,7 +34,10 @@ a{
     color: #EFBF04;
     text-decoration: none;
 }
+a:hover{
+    color: #C0392B;
 
+}
 
 .wrapper{
     max-width: 1170px;
@@ -89,18 +95,63 @@ header{
     cursor: pointer;
     padding: 8px 16px;
     border-radius: 8px;
-    background-color: #38BDF8;
-    color: ;
+    background-color: black;
+    color:#EFBF04;
     flex-shrink: 0;
     
 }
 .hero-button:hover{
-    background-color: black;
-    color:#EFBF04;
+    background-color: gold;
+    color: black;
 }
 
 .hero-img{
     width: 500px;
     border: 1px solid gold ;
     border-radius: 3px;
+}
+/* end of header and hero */
+
+/* start of dishes section */
+.dishes{
+    background-color: #FAF7F2;
+    text-align: center;
+    padding: 40px 0 80px 0;
+
+}
+.dishes .wrapper{
+    flex-direction:column ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dishes-container{
+    display: flex;
+    gap: 30px;
+
+}
+.dishes-title{
+    color : #ae2f21;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom:50px ;
+}
+.dish-img{
+    width: 150px;
+    margin-bottom: 16px;
+    border: 1px solid gold;
+    border-radius: 100px;
+}
+.dish{
+    background-color: white;
+    border: 2px solid gold;
+    border-radius: 12px;
+    padding: 15px;
+    color: #555;
+    max-width: 220px;
+    
+}
+.dish:hover{
+    background-color: transparent;
 }
