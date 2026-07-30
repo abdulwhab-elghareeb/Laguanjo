@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+/* header */
+
+.icon{
+    height: 65px;
+}
+
+/* remove bullets */
+ul{ 
+    list-style: none;
+
+    display: flex;
+    gap: 16px;
+}
+
+/* remove line under links */
+a{
+    color: #EFBF04;
+    text-decoration: none;
+}
+
+
+header{
+    background-color: hsl(250, 33%, 14%);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2px 16px;
+
+}
+/* header */
