@@ -18,3 +18,4 @@ hero section Image : [Matheus Bertelli | pexels](https://www.pexels.com/photo/ta
 
 ## How To Run 
 1. Open index.html on your browser 
+2. By live preview link [Live preview](https://abdulwhab-elghareeb.github.io/Laguanjo/)
