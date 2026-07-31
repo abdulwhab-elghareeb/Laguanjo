@@ -8,16 +8,16 @@
 
 body{
     font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
 
 }
 button{
     font-family: inherit;
 }
-
 /* header */
 
 .icon{
-    height: 65px;
+    height: 90px;
     flex-shrink: 0;
 }
 
@@ -62,6 +62,7 @@ header{
     background-color:  hsl(250, 33%, 14%) ;
     padding: 80px 0;
 
+
 }
 /* hero section */
 
@@ -75,7 +76,6 @@ header{
 .container{
     max-width: 400px;
     flex: 1;
-
     display: flex;
     flex-direction: column;
     gap: 16px;
@@ -86,11 +86,11 @@ header{
     color: #EFBF04;
 }
 .hero-para{
-    font-size: 18px;
     color: rgb(200, 18, 18);
 }
 
 .hero-button{
+    font-size: 16px;
     width: 120px;
     cursor: pointer;
     padding: 8px 16px;
@@ -155,3 +155,30 @@ header{
 .dish:hover{
     background-color: transparent;
 }
+/* end of the dishes section */
+
+/* start of the quote section */
+.quote{
+    background-color:#E5E7EB;
+    color: #1F2937;
+    font-weight: 300;
+    font-size: 28px;
+    font-style: italic;
+    padding: 80px 0;
+
+    
+
+}
+.quote .wrapper{
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote-by{
+    font-weight: 500;
+    margin-left: auto;
+}
+/* end of the quote section */
+/* start of the sign in  */
