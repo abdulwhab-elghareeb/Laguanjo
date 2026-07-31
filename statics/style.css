@@ -249,7 +249,7 @@ header,
   }
 
  .hero-img{
-    animation: 3s slide-left;
+    animation: 2s slide-left;
  } 
  @keyframes slide-left{
     from{
