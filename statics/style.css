@@ -89,12 +89,13 @@ header{
     color: rgb(200, 18, 18);
 }
 
-.hero-button{
+.hero-button,
+.sign-button{
     font-size: 16px;
-    width: 120px;
+    width:fit-content;
     cursor: pointer;
     padding: 8px 16px;
-    border-radius: 8px;
+    border-radius: 12px;
     background-color: black;
     color:#EFBF04;
     flex-shrink: 0;
@@ -164,7 +165,7 @@ header{
     font-weight: 300;
     font-size: 28px;
     font-style: italic;
-    padding: 80px 0;
+    padding: 70px 0;
 
     
 
@@ -181,4 +182,37 @@ header{
     margin-left: auto;
 }
 /* end of the quote section */
+
 /* start of the sign in  */
+.sign-section{
+    background-color: hsl(250, 33%, 14%);
+    color: rgb(72, 25, 72);
+    padding: 80px 0;
+}
+.sign-section .wrapper{
+    max-width: 1000px;
+    background-color: #EFBF04;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 20px ;
+    gap: 10px;
+    border-radius: 3px;
+
+}
+.sign-title{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.sign-button{
+    padding: 10px 30px;
+    background-color: #EFBF04;
+    color: rgb(72, 25, 72);
+    border-color:hsl(250, 33%, 14%);
+    border-style: solid;
+
+}
+.sign-button:hover{
+    background-color: hsl(250, 33%, 14%);
+    color:#EFBF04 ;
+}
