@@ -9,6 +9,9 @@
 body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 19px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 
 }
 button{
@@ -31,8 +34,8 @@ ul{
 
 /* remove line under links */
 a{
-    color: #EFBF04;
     text-decoration: none;
+    color: #EFBF04;
 }
 a:hover{
     color: #C0392B;
@@ -51,11 +54,10 @@ header .wrapper{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-
 }
 /* header */
-header{
+header,
+.footer{
     background-color:  hsl(250, 33%, 14%) ;
 }
 .hero{
@@ -111,10 +113,13 @@ header{
     border: 1px solid gold ;
     border-radius: 3px;
 }
+  
+
 /* end of header and hero */
 
 /* start of dishes section */
 .dishes{
+    flex:1;
     background-color: #FAF7F2;
     text-align: center;
     padding: 40px 0 80px 0;
@@ -185,9 +190,9 @@ header{
 
 /* start of the sign in  */
 .sign-section{
-    background-color: hsl(250, 33%, 14%);
+    background-color: hsl(251, 47%, 23%);
     color: rgb(72, 25, 72);
-    padding: 80px 0;
+    padding: 100px;
 }
 .sign-section .wrapper{
     max-width: 1000px;
@@ -216,3 +221,17 @@ header{
     background-color: hsl(250, 33%, 14%);
     color:#EFBF04 ;
 }
+/* end of the sign up section */
+
+/* start of the footer */
+.footer{
+    padding: 30px;
+    color: #EFBF04;
+}
+.footer .wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
