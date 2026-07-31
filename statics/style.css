@@ -235,3 +235,27 @@ header,
 
 }
 
+/***** Slide Right *****/
+  .container, .dish{
+    animation: 2s slide-right;
+  }
+  @keyframes slide-right {
+    from {
+      margin-left: -80%;
+    }
+    to {
+      margin-left: 0%;
+    }
+  }
+
+ .hero-img{
+    animation: 3s slide-left;
+ } 
+ @keyframes slide-left{
+    from{
+        margin-right: -80%;
+    }
+    to{
+        margin-right: 0%;
+    }
+ }
